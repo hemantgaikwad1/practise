@@ -7,7 +7,7 @@ A software application used to manage our DB is called DBMS.
 1)Relational(RDBMS)--> data is stored in tables-->MYSQL.
 2)Non-relational (NOSQL)--> data not stored in tables-->MongoDB.
 
-
+//hello
 
 
 
